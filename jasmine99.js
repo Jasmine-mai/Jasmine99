@@ -16,5 +16,8 @@ function calculateDiscSquare(r) {
     return r * r * 3.14;
 }
 //console.log("result " + calculateDiscSquare(10))
-console.log("result " + calculateDiscSquare(15))
+//console.log("result " + calculateDiscSquare(15))
 
+for (let i=0; i < 10; i++) {
+    console.log (i);
+}
